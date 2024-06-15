@@ -10,3 +10,4 @@ Features->
 4.Hyperparameter tuning using GridSearchCV
 5.Web application for price prediction
 6.Interactive and user-friendly interface
+7.Flask server
